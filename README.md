@@ -1,5 +1,6 @@
 # RPLidar_Arduino
 RoboPeak RPLIDAR driver for Arduino and Arduino-compatible devices.
+
 Based on RPLIDAR SDK v1.12.0 (https://github.com/Slamtec/rplidar_sdk) and ported to Arduino IDE code.
 
 ### Notes:
@@ -7,7 +8,7 @@ Based on RPLIDAR SDK v1.12.0 (https://github.com/Slamtec/rplidar_sdk) and ported
 2. RPLidar motor speed is controlled via uC pin.
 3. Standard and Express Scan are only supported for now.
 
-### Usage
+### Usage:
 
 Include the rplidar sdk and declare the rplidar object:
 
